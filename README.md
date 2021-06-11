@@ -1,4 +1,4 @@
-# Simple-Image-editor-using-numpy
+# Simple-Image-Editor-using-Numpy
 
 This is the python code for implementing a simple image editor using numpy
 
